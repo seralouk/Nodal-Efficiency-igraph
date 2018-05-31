@@ -2,4 +2,4 @@
 
 Code for Nodal efficiency in igraph module
 
-Dependencies: NumPy, iGraph
+Dependencies: # NumPy, # iGraph
