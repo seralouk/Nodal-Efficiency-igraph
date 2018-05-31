@@ -3,6 +3,8 @@ from igraph import *
 
 def nodaleff(g):
     """
+    Author: Serafeim Loukas, EPFL, serafeim.loukas(at)epfl(dot)ch
+    
     This function returns the nodal efficiency of all nodes of a graph object.
     
     Input
