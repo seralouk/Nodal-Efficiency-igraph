@@ -5,6 +5,6 @@ The edge's weights are inverted. Change this for general use of the function.
 
 #### Author: Serafeim Loukas
 
-#### Email: serafeim(dot)loukas(at)epfl(dot)ch
+#### Email:`serafeim.loukas@epfl.ch`
 
-#### Dependencies: NumPy, iGraph
+#### Dependencies: `numpy` and `igraph`
